@@ -3,10 +3,3 @@
 .idea/
 .project/
 .settings/
-/build/docs/
-/deploy/
-/client/vendor/
-/build/node_modules/
-/build/npm-debug.log
-
-/bin/
